@@ -1,2 +1,5 @@
-Intermediate/
-Saved/
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+*.opensdf
