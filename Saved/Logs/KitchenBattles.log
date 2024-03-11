@@ -1392,3 +1392,30 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.11-15.33.13:395][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 787 ms)
 [2024.03.11-15.33.13:397][249]AssetCheck: New page: Asset Save: Enemies
 [2024.03.11-15.33.13:397][249]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Enemies.Enemies
+[2024.03.11-15.36.06:361][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.11-15.36.06:419][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enemies" FILE="../../../../projects/Kitchen-Battles/Content/Maps/Enemies.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.11-15.36.06:462][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.03.11-15.36.06:474][231]LogSavePackage: Moving output files for package: /Game/Maps/Enemies
+[2024.03.11-15.36.06:474][231]LogSavePackage: Moving '../../../../projects/Kitchen-Battles/Saved/Enemies5D9CA17340EDB56E1811EBA5EFB31E19.tmp' to '../../../../projects/Kitchen-Battles/Content/Maps/Enemies.umap'
+[2024.03.11-15.36.06:482][231]LogFileHelpers: Saving map 'Enemies' took 0.062
+[2024.03.11-15.36.06:489][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 915 ms)
+[2024.03.11-15.36.06:490][231]AssetCheck: New page: Asset Save: Enemies
+[2024.03.11-15.36.06:490][231]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Enemies.Enemies
+[2024.03.11-15.36.31:442][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.11-15.36.31:474][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enemies" FILE="../../../../projects/Kitchen-Battles/Content/Maps/Enemies.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.11-15.36.31:514][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.03.11-15.36.31:525][422]LogSavePackage: Moving output files for package: /Game/Maps/Enemies
+[2024.03.11-15.36.31:525][422]LogSavePackage: Moving '../../../../projects/Kitchen-Battles/Saved/Enemies8BEC8F9A422D22771D1A8D95564E3A91.tmp' to '../../../../projects/Kitchen-Battles/Content/Maps/Enemies.umap'
+[2024.03.11-15.36.31:532][422]LogFileHelpers: Saving map 'Enemies' took 0.059
+[2024.03.11-15.36.31:540][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.01 sec)
+[2024.03.11-15.36.31:541][422]AssetCheck: New page: Asset Save: Enemies
+[2024.03.11-15.36.31:541][422]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Enemies.Enemies
+[2024.03.11-15.36.35:263][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.11-15.36.35:329][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enemies" FILE="../../../../projects/Kitchen-Battles/Content/Maps/Enemies.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.11-15.36.35:370][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.03.11-15.36.35:382][727]LogSavePackage: Moving output files for package: /Game/Maps/Enemies
+[2024.03.11-15.36.35:382][727]LogSavePackage: Moving '../../../../projects/Kitchen-Battles/Saved/Enemies276698CD4062F12216B6BCAEBC630D59.tmp' to '../../../../projects/Kitchen-Battles/Content/Maps/Enemies.umap'
+[2024.03.11-15.36.35:390][727]LogFileHelpers: Saving map 'Enemies' took 0.061
+[2024.03.11-15.36.35:397][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 1.14 sec)
+[2024.03.11-15.36.35:398][727]AssetCheck: New page: Asset Save: Enemies
+[2024.03.11-15.36.35:399][727]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Enemies.Enemies
