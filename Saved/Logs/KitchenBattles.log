@@ -1042,3 +1042,4 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.03.11-15.47.45:791][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: df720a31f5da2bb2113d9ed054fb68cb59d6de46), compiling. 
 [2024.03.11-15.47.47:575][  0]LogTurnkeySupport: Completed device detection: Code = 0
 [2024.03.11-15.49.01:210][  0]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (2.111 seconds, threshold is 0.300 s), will parallelize next time.
+[2024.03.11-15.49.59:008][  0]LogDerivedDataCache: C:/Users/Missy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.295 and deleted 27 files with total size 0 MiB and 27 empty folders. Scanned 11802 files in 14323 folders with total size 2868 MiB.
