@@ -1364,3 +1364,31 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.11-15.26.35:067][649]AssetCheck: New page: Asset Save: Enemies
 [2024.03.11-15.26.35:067][649]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Enemies.Enemies
 [2024.03.11-15.27.45:431][625]LogDerivedDataCache: C:/Users/Missy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.209 and deleted 8 files with total size 0 MiB and 9 empty folders. Scanned 11644 files in 14168 folders with total size 2866 MiB.
+[2024.03.11-15.33.01:481][160]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.03.11-15.33.08:798][856]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.11-15.33.08:887][859]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.03.11-15.33.08:888][859]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.03.11-15.33.08:888][859]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/Enemies.Enemies:PersistentLevel.StaticMeshActor_0
+[2024.03.11-15.33.08:929][859]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/Enemies.Enemies:PersistentLevel.StaticMeshActor_0
+[2024.03.11-15.33.09:370][904]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.03.11-15.33.09:370][904]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.03.11-15.33.09:371][904]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/Enemies.Enemies:PersistentLevel.StaticMeshActor_2
+[2024.03.11-15.33.09:372][904]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/Enemies.Enemies:PersistentLevel.StaticMeshActor_2
+[2024.03.11-15.33.10:957][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.11-15.33.11:025][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enemies" FILE="../../../../projects/Kitchen-Battles/Content/Maps/Enemies.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.11-15.33.11:076][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.03.11-15.33.11:103][ 47]LogSavePackage: Moving output files for package: /Game/Maps/Enemies
+[2024.03.11-15.33.11:103][ 47]LogSavePackage: Moving '../../../../projects/Kitchen-Battles/Saved/EnemiesCE11958E4CD9875589A905988DA5FAE5.tmp' to '../../../../projects/Kitchen-Battles/Content/Maps/Enemies.umap'
+[2024.03.11-15.33.11:110][ 47]LogFileHelpers: Saving map 'Enemies' took 0.086
+[2024.03.11-15.33.11:117][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 654 ms)
+[2024.03.11-15.33.11:119][ 47]AssetCheck: New page: Asset Save: Enemies
+[2024.03.11-15.33.11:119][ 47]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Enemies.Enemies
+[2024.03.11-15.33.13:264][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.11-15.33.13:326][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enemies" FILE="../../../../projects/Kitchen-Battles/Content/Maps/Enemies.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.11-15.33.13:370][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.11-15.33.13:381][249]LogSavePackage: Moving output files for package: /Game/Maps/Enemies
+[2024.03.11-15.33.13:381][249]LogSavePackage: Moving '../../../../projects/Kitchen-Battles/Saved/EnemiesBB771A294282F6956E77A59AE714BCD4.tmp' to '../../../../projects/Kitchen-Battles/Content/Maps/Enemies.umap'
+[2024.03.11-15.33.13:389][249]LogFileHelpers: Saving map 'Enemies' took 0.063
+[2024.03.11-15.33.13:395][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 787 ms)
+[2024.03.11-15.33.13:397][249]AssetCheck: New page: Asset Save: Enemies
+[2024.03.11-15.33.13:397][249]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Enemies.Enemies
