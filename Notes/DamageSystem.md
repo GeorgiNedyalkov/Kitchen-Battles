@@ -59,3 +59,5 @@ Add all the variables that will be added to our character: Health, maxhealth, is
    from the interface using our damage component.
 
 -   Implement the heal function
+
+6. Add the Healthbar widget component
