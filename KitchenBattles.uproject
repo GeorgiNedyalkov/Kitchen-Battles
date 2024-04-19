@@ -10,13 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-<<<<<<< Updated upstream
-=======
-		},
-		{
-			"Name": "SkeletalMeshModelingTools",
-			"Enabled": true
->>>>>>> Stashed changes
 		}
 	]
 }
