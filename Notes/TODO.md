@@ -4,5 +4,4 @@
 -   Create a Cucumber enemy boss
 -   Add ability after the end wave
 -   Figure out the Wave based game mode
-
-Ability System:
+-   Figure out the ability system
