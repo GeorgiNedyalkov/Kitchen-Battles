@@ -58,3 +58,6 @@ Saved/**
 #Ignore visual studio build files
 *.target
 *.lib
+
+#Ingore specific starter content files
+/Content/StarterContent/Architecture/Floor_400x400.uasset
