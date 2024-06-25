@@ -66,3 +66,8 @@ Content/StarterContent/Architecture/Floor_400x400.uasset
 #IgnoreLargeFiles
 /Content/Environment/**
 /Content/UltimateFarming/**
+
+#Ignore Started Content
+/Content/StarterContent/HDRI/**
+/Content/StarterContent/Architecture/**
+/Content/StarterContent/Particles/Materials/**
