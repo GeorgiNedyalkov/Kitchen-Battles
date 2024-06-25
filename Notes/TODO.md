@@ -44,7 +44,6 @@ The long range jump attack also needs a lot of improvement.
 Brocolli enemy has no movement and can only lift objects once.
 
 
-
 4. Eggplant enemy
 
 The eggplant enemy should have the following functionality:
