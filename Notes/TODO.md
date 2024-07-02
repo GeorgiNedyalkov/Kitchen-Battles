@@ -6,17 +6,12 @@
 Level Desing:
 - Blockout 
 
-
-
 Bugfixes and Changes:
 
 -  Spawning Carrots AOE
 
 Spawning carrots ability should deal AOE damage instead of using projectiles. 
 Currently projectiles hit the player and interupt the animation.
-
-
-
 
 ### Enemies
 
